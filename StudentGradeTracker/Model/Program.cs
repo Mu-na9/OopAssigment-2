@@ -12,17 +12,17 @@
             Student student3 = new Student("Ahmed ", "S3");
 
             Console.WriteLine("Adding grades for Muna : ");
-            student1.AddGrade(85);
+            student1.AddGrade(93);
             student1.AddGrade(92);
-            student1.AddGrade(78);
-            student1.AddGrade(88);
+            student1.AddGrade(80);
+            student1.AddGrade(99);
 
             Console.WriteLine("\nAdding grades for Atsloom: ");
             student2.AddGrade(90);
             student2.AddGrade(88);
             student2.AddGrade(92);
-            student2.AddGrade(87);
-            student2.AddGrade(91);
+            student2.AddGrade(80);
+            student2.AddGrade(99);
 
             Console.WriteLine("\nAdding grades for Ahmed: ");
             student3.AddGrade(65);
