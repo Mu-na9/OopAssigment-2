@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("  STUDENT GRADE TRACKING SYSTEM");
      
@@ -30,7 +30,7 @@
             student3.AddGrade(68);
             student3.AddGrade(70);
 
-            Console.WriteLine("      STUDENT REPORTS");
+            Console.WriteLine("\nSTUDENT REPORTS");
       
 
             student1.PrintStudentReport();

@@ -11,9 +11,9 @@ namespace OOPAssigment.BookClassSysytem
             Console.WriteLine("WELCOME TO BOOK CLASS SYSTEM\n");
 
            
-            Book book1 = new Book( "Clean Code", "Robert C. Martin", 2008,"978-0132350884");
-            Book book2 = new Book( "The Pragmatic Programmer" , "Andrew Hunt & David Thomas", 1999,"978-0201616224" );
-            Book book3 = new Book( "Design Patterns", "Gang of Four", 1994, "978-0201633610");
+            Book book1 = new Book( "Heloo", "Mohamed ", 2008,"968-98754867");
+            Book book2 = new Book( "The Programmer" , "Eng.saleh ", 2022,"968-4785854" );
+            Book book3 = new Book( "Fashion Designer", "Muna", 2024, "968-8745874");
 
         
             Console.WriteLine(" Book 1:");
@@ -26,7 +26,7 @@ namespace OOPAssigment.BookClassSysytem
             book3.PrintBookInfo();
 
             Console.WriteLine("\n  CHECKING BOOK YEAR: ");
-            Console.WriteLine("─────────────────────────────────────");
+            Console.WriteLine(".-.-.-.-.-.-.-.-.-.-.-.-.-.");
 
             int checkYear = 2000;
 

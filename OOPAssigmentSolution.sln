@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookClassSysytem", "OOPAssi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradeTracker", "StudentGradeTracker\StudentGradeTracker.csproj", "{3E38CCBB-103E-4721-B0A8-905270D0B9A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleHierarchySystem", "VehicleHierarchySystem\VehicleHierarchySystem.csproj", "{28FC4DB4-8194-4804-A8C6-01CA4D638A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-CommerceOrderSystem", "E-CommerceOrderSystem\E-CommerceOrderSystem.csproj", "{E41CD98C-DC1E-468B-B262-544BF690C87D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3E38CCBB-103E-4721-B0A8-905270D0B9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E38CCBB-103E-4721-B0A8-905270D0B9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E38CCBB-103E-4721-B0A8-905270D0B9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FC4DB4-8194-4804-A8C6-01CA4D638A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FC4DB4-8194-4804-A8C6-01CA4D638A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FC4DB4-8194-4804-A8C6-01CA4D638A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FC4DB4-8194-4804-A8C6-01CA4D638A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41CD98C-DC1E-468B-B262-544BF690C87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41CD98C-DC1E-468B-B262-544BF690C87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41CD98C-DC1E-468B-B262-544BF690C87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41CD98C-DC1E-468B-B262-544BF690C87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

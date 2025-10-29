@@ -87,7 +87,7 @@ namespace StudentGradeTracker.Model
                 else
                     Console.WriteLine("Fail F");
             }
-            Console.WriteLine("================================");
+        
 
         }
     }
