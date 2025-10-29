@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookClassSysytem", "OOPAssigment\BookClassSysytem.csproj", "{BF0BE284-AEE6-4C30-A83F-CA48FB834B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradeTracker", "StudentGradeTracker\StudentGradeTracker.csproj", "{3E38CCBB-103E-4721-B0A8-905270D0B9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0BE284-AEE6-4C30-A83F-CA48FB834B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0BE284-AEE6-4C30-A83F-CA48FB834B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0BE284-AEE6-4C30-A83F-CA48FB834B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0BE284-AEE6-4C30-A83F-CA48FB834B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E38CCBB-103E-4721-B0A8-905270D0B9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E38CCBB-103E-4721-B0A8-905270D0B9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E38CCBB-103E-4721-B0A8-905270D0B9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E38CCBB-103E-4721-B0A8-905270D0B9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BD2F82-E621-4820-A5CD-F33F88A32450}
+	EndGlobalSection
+EndGlobal
