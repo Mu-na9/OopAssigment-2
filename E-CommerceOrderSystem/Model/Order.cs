@@ -70,7 +70,6 @@ namespace E_CommerceOrderSystem.Model
             decimal total = 0;
             for (int i = 0; i < productCount; i++)
             {
-                //object Products = null;
                 total +=  new  Product[i].CalculateTotal();
             }
             return total;
