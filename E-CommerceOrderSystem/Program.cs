@@ -15,8 +15,8 @@ namespace E_CommerceOrderSystem
             Console.WriteLine(".-.-.-.- Individual Products .-.-.-.");
             product1.DisplayInfo();
             product2.DisplayInfo();
-         
-            Console.WriteLine($"Calculated with parameters: {product1.CalculateTotal(42, 30);
+
+            Console.WriteLine($"Calculated with parameters: {product1.CalculateTotal(42, 30)} ");
 
             Order order = new Order();
 
