@@ -23,21 +23,12 @@ namespace SmartHomeDeviceControl
 
             Console.WriteLine();
 
-            // التحكم بالتكييف
+    
             Controller thermoController = new Controller(bedroomThermostat);
             thermoController.OperateDevice();
             bedroomThermostat.SetTemperature(20.5);
             thermoController.CheckDevice();
             thermoController.StopDevice();
-
-
-
-
-
-
-
-
-
 
 
 
